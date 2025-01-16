@@ -2,7 +2,6 @@
 - 👀 I’m interested in Full Stack Devlopment and DSA.
 - 🌱 I’m currently learning Full-Stack Devlopment
 - 💞️ I’m looking to collaborate on Devlopement Projects and Hackathons...
-- 📫 You can reach  reach me on Inastagram as @mainavinhoon ...
 - IF I CAN HELP YOU/COLLABORATE WITH YOU  EITHERWAYS PLEASE LET ME KNOW THEN.
 
 <!---
